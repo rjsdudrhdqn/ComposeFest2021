@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Main/Documents/GitHub/ComposeFest2021/week 3-2-Jetpack Compose Animation/finished/src/main/res/drawable/ic_launcher_foreground.xml" value="0.21458333333333332" />
+        <entry key="..\:/Users/Main/Documents/GitHub/ComposeFest2021/week 3-2-Jetpack Compose Animation/finished/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.21822916666666667" />
+        <entry key="..\:/Users/Main/Documents/GitHub/ComposeFest2021/week 3-2-Jetpack Compose Animation/finished/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.21458333333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK" />
+</project>
